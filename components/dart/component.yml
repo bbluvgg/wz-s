@@ -1,0 +1,6 @@
+name: "DART Formaldehyde Sensor"
+platform: sensor
+includes:
+  - dart.h
+sources:
+  - dart.cpp
